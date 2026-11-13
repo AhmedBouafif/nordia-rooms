@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: rooms-api
+  datasource:
+    url: jdbc:sqlite:${DB_PATH:nordia.db}
+    driver-class-name: org.sqlite.JDBC
+    hikari:
+      maximum-pool-size: 1
+      connection-init-sql: PRAGMA foreign_keys = ON
+  jpa:
+    database-platform: org.hibernate.community.dialect.SQLiteDialect
+    hibernate:
+      ddl-auto: update
+    open-in-view: false
+
+app:
+  timezone: Europe/Oslo

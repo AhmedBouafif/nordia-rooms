@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.nordia.rooms.booking.BookingConcurrencyTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.090 s -- in com.nordia.rooms.booking.BookingConcurrencyTest

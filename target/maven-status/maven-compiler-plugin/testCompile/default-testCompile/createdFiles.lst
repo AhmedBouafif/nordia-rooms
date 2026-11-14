@@ -1,8 +1,0 @@
-com\nordia\rooms\booking\BookingApiTest.class
-com\nordia\rooms\booking\BookingConcurrencyTest.class
-com\nordia\rooms\room\RoomApiTest.class
-com\nordia\rooms\RoomsApiApplicationTests.class
-com\nordia\rooms\support\ApiTestBase.class
-com\nordia\rooms\booking\BookingPolicyTest.class
-com\nordia\rooms\support\MutableClock.class
-com\nordia\rooms\support\TestClockConfig.class

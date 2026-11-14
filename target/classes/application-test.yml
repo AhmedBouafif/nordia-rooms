@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: "jdbc:sqlite::memory:"
+    hikari:
+      max-lifetime: 0
